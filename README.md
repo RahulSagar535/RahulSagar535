@@ -130,21 +130,34 @@ A college equipment management platform featuring QR-code scanning, real-time av
 
 ---
 
+
 <h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RahulSagar535&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://img.shields.io/github/followers/RahulSagar535?style=for-the-badge&logo=github&color=2563EB&label=FOLLOWERS" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulSagar535&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/github/stars/RahulSagar535?style=for-the-badge&logo=github&color=7C3AED&label=STARS" />
+
+<img src="https://img.shields.io/github/repos/RahulSagar535?style=for-the-badge&logo=github&color=0891B2&label=REPOSITORIES" />
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulSagar535&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/RahulSagar535?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-MY_REPOSITORIES-2563EB?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+### 💻 MY TECH STACK
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,nodejs,mongodb,mysql&theme=dark" />
+
+<br/><br/>
+
+### 🔥 KEEP BUILDING. KEEP LEARNING.
 
 </div>
-
----
 
 <h2 align="center">🎯 CURRENT MISSIONS</h2>
 
